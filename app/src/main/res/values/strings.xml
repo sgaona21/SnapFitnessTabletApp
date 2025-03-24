@@ -7,4 +7,13 @@
     <string name="txtTitle">Summer - Bike and Barge Europe Tour</string>
     <string name="txtInfo">Join us for a dream vacation filled with biking in cities throughout Europe from Amsterdam to Budapest. The next trip leaves on June 2.</string>
     <string name="txtDescription">Bike and Barge Image.</string>
+    <string name="youth">Youth (ages 14-17): $25</string>
+    <string name="adult">Adult (18 and over): $50</string>
+    <string name="family">Family/Household: $75</string>
+    <string name="senior">Active Senior: $50</string>
+    <string name="imgDescription">Image of the Gym</string>
+    <string name="classesDesc">You will love our group classes held every weeknight from 5-7pm!</string>
+    <string name="trainersText">We have plenty of certified personal trainers that will help you and motivate you to hit your goals!</string>
+    <string name="weightsDesc">We have all the free weights you can think of! Come get a sick pump!</string>
+    <string name="machinesDesc">We also have all the machines you need. Come get your cardio on!</string>
 </resources>
